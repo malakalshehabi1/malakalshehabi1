@@ -1,16 +1,44 @@
-## Hi there 👋
+## Salam! I'm Mala'ak Alshehabi 👋
 
-<!--
-**malakalshehabi1/malakalshehabi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Software Engineering student passionate about Web Development and Artificial Intelligence, dedicated to building modern web experiences and sharpening my problem-solving skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 **Education:** Software Engineering Student
+- 🌱 **Currently Learning:** Algorithms & Problem Solving
+- 💡 **Interests:** Web Development & Artificial Intelligence (AI)
+- ⚡ **Fun Fact:** Always debugging with coffee ☕
+
+---
+
+### 🛠 Tech Stack & Tools
+![My Skills](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="160em" src="https://vercel.app" />
+  <img height="160em" src="https://vercel.app" />
+</p>
+
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:malakalshehabi01@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://www.linkedin.com/in/malak-alshehabi-0849a8316">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
