@@ -1,7 +1,7 @@
 ## Salam! I'm Mala'ak Alshehabi 👋
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B4636¢er=true&vCenter=true&width=520&lines=Software+Engineering+Student;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,26 +19,26 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-![My Skills](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,vscode&perline=5" alt="My Skills" />
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="160em" src="https://vercel.app" />
-  <img height="160em" src="https://vercel.app" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=malakalshehai1&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=malakalshehai1&theme=default" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
   <a href="mailto:malakalshehabi01@gmail.com">
-    <img src="https://shields.io" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/malak-alshehabi-0849a8316">
-    <img src="https://shields.io" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
