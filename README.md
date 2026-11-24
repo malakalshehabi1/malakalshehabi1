@@ -28,7 +28,7 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=malakalshehabi1&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=malakalshehai1&theme=default" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=malakalshehabi1&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
