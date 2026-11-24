@@ -14,7 +14,7 @@
 - 🎓 **Education:** Software Engineering Student
 - 🌱 **Currently Learning:** Algorithms & Problem Solving
 - 💡 **Interests:** Web Development & Artificial Intelligence (AI)
-- ⚡ **Fun Fact:** Always debugging with coffee ☕
+
 
 ---
 
