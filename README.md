@@ -1,7 +1,7 @@
 ## Salam! I'm Mala'ak Alshehabi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B4636¢er=true&vCenter=true&width=520&lines=Software+Engineering+Student;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <strong>Software Engineering Student | Web Developer & AI Enthusiast</strong>
 </p>
 
 <p align="center">
